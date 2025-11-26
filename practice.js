@@ -12,3 +12,11 @@ function f3(a, b) {
 
 let totalNumberOfCatInTokyoAtLastYear = 0;
 
+
+let total = 0;
+
+// For loop from 1 to 4
+for (let i = 0; i < 4; i++) {
+  // Add value to the total
+  total += arr[i];
+}
