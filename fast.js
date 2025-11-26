@@ -4,3 +4,12 @@ function f3(a, b){if(a==="test"&&b!=="temp")
 {return b} else{return " " + b + "random text"}}
 
 var totalnumberOf_catIn_tokyo_atLastYear = 0;
+
+
+let total = 0;
+
+// For loop from 1 to 4
+for (let i = 0; i < 4; i++) {
+  // Add value to the total
+  total += arr[i];
+}

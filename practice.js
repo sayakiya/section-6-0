@@ -11,3 +11,4 @@ function f3(a, b) {
 }
 
 let totalNumberOfCatInTokyoAtLastYear = 0;
+
