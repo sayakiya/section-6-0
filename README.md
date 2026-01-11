@@ -1,5 +1,13 @@
-寒いよ。眠いよ。トホ🤧🤧
-今日はここまで　
-テスト用の追記です
-Gitに追記できますように
-Git に追記できるか確認テスト中！
+# SECTION-6-0 Practice
+
+JavaScript の基礎練習用リポジトリです。
+
+## 内容
+- 関数（function）
+- if / else
+- for ループ
+- 配列
+- 合計計算（total）
+
+## ファイル
+- practice.js：JavaScript 練習コード
